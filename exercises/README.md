@@ -1,1 +1,1 @@
-apredendo tudo 
+Exercicios da trybe

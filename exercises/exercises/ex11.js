@@ -28,4 +28,4 @@ if (salarioBase <= 1903.98) {
   ir = (salarioBase * 0.275) - 869.36;
 };
 
-console.log("Salário: " + (salarioBase - ir));
+console.log("Salário: " + (salarioBase - ir)); 
